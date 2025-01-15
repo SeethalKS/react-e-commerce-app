@@ -1,0 +1,22 @@
+.header{
+    min-height: 45px;
+    width:100%;
+    background-color: lightcyan;
+}
+.navbar
+{
+    background-color: #020202;
+    padding-left: 10px;
+    color: #ffffff;
+}
+.nav-link{
+    color: #ffffff;    
+}
+.nav-item > .nav-link.active{
+    color: grey;
+    cursor: pointer;
+}
+.nav-link:hover {
+    color: pink; /* Text color when hovered */
+    background-color: black; /* Background color when hovered */
+  }

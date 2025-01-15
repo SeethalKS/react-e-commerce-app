@@ -1,0 +1,28 @@
+.items1
+{
+    margin-top: 15px;    
+    font-family: Amazon Ember Bold;
+    text-align: center;
+    padding: 10px;    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.yellow-star {
+    color: orange; /* or you can use a hex code like #FFD700 */
+  }
+  .bordered-star {
+    color:transparent; /* Fill color */
+    -webkit-text-stroke: 2px orange; /* Border color and thickness */
+  }
+  .bgcolor{
+    color: grey;   
+  }
+  .navlink {
+    text-decoration: none;
+  }
+  .product-card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    
+  }
